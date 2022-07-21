@@ -1,0 +1,330 @@
+/* @media (min-width: 1400px){} (extra large)
+ (extra large)
+(large)
+
+
+*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* ==============manu part start =============  */
+    #manu_part ul li a {
+        font-size: 13px;  
+    }
+    /* ==============manu part end =============  */
+    /* ==============banner part start =============  */
+    #banner_part {
+        padding-top: 0;
+    }
+    #banner_part .item .fnt_siz_2 {
+        font-size: 41px;
+    }
+    #banner_part .item img {
+        margin-top: 40px;
+    }
+    /* ==============banner part end =============  */
+    /* ==============about part start =============  */
+    #about_part .item .pera {
+        width: 290px;
+        margin: 0 auto;
+    }
+    #about_part .item .img {
+           margin-left: 65px;
+    }
+    #about_part .item span {
+        left: 71px; 
+    }
+    /* ==============about part end =============  */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #header_part .item_part .item span{
+        font-size: 15px;
+    }
+    /* =============manu part start=========== */
+    #manu_part ul li a {
+        font-size: 13px;  
+    }
+    #manu_part ul li {
+        padding-right: 0px;
+    }
+    .mb-2 {
+        margin-bottom: 0 !important;
+    }
+    /* =============manu part end=========== */
+    /* =============banner part start=========== */
+    #banner_part .item .fnt_siz {
+        padding-top: 30px;
+    }
+    /* =============banner part end=========== */
+    /* =============about part start=========== */
+    #about_part .item .md_mrg_top {
+        margin-top: 30px;
+    }
+    #about_part .item .md_mrg_img {
+        margin-left: 272px;
+    }
+    #about_part .item span {
+        left: 91px;
+    }   
+    #about_part .item .md_mag_icon {
+        left: 270px;
+    }  
+    /* =============about part end=========== */
+    /* =============notice part start=========== */
+    #notice_part .item .title_2 {
+        font-size: 16px;
+    }
+    #notice_part .item .bdr_btm {
+        margin-top: 30px;
+    }
+    /* =============notice part end=========== */
+    /* =============news even  part start=========== */
+    
+    #news_even_part .item .item_2 {
+        justify-content: flex-start;
+    }
+    #news_even_part .item .item_2 .img {
+        margin-right: 10px;
+    }
+    #news_even_part .item .bdr_btm {
+        margin-top: 20px;
+    }
+    /* =============news even  part end=========== */
+    /* =============doctor part start=========== */
+    #doctor_part .item .md_mrg {
+        margin-top: 30px;
+    }
+    /* =============doctor part end=========== */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* =========header part start======= */
+    #header_part .item_part {
+        height: 110px;
+        display: block;
+    }
+    #header_part .item_part .item span{
+        font-size: 13px;
+    }
+    /* =========header part end======= */
+    /* =========manu part start======= */
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #manu_part span {
+        color: #fff;
+        font-size: 24px;
+    }
+    #manu_part ul li a {
+        font-size: 14px; 
+    }
+    /* =========manu part end======= */
+    /* =========banner part start======= */
+    #banner_part {
+        padding-top: 0px;
+    }
+    #banner_part .item .fnt_siz {
+        font-size: 32px;
+        padding-top: 40px;
+    }
+    #banner_part .item .fnt_siz_2 {
+        font-size: 42px;
+    }
+    /* =========banner part end======= */
+    /* =========about part start======= */
+    #about_part .item .img {
+        margin-left: 180px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    #about_part .item .pera {
+        width: 300px;
+        margin: 0 auto;
+    }
+    #about_part .item h3 {
+        padding-top: 15px;
+    }
+    #about_part .item span {
+        left: 178px;
+    }
+    #about_part {
+        padding-bottom: 40px;
+    }
+    /* =========about part end======= */
+    /* =========notice part start======= */
+    #notice_part {
+        padding: 15px 0;
+    }
+    #notice_part .item .title_2 {
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    #notice_part .item .title_1 {
+        font-size: 28px;
+    }
+    #notice_part .item .line {
+        top: 29px;
+    }
+    #notice_part .item .tab_box .title_2 {
+        font-size: 14px;
+    }
+    /* =========notice part end======= */
+    /* =========news even part start======= */
+    #news_even_part {
+        padding: 30px 0;
+    }
+    #news_even_part .item .title_1 {
+        font-size: 24px;
+        margin-top: 15px;
+    }
+    #news_even_part .item .line_1 {
+        margin-top: 15px;
+    }
+    #news_even_part .item .mrg_btm {
+        margin-bottom: 30px;
+    }
+    #news_even_part .item .mrg_top_1 {
+        margin-top: 60px;
+    }
+    /* =========news even part end======= */
+    /* =========doctor part start======= */
+    #doctor_part .text .title_1 {
+        font-size: 24px;
+    }
+    #doctor_part .item .title_2 {
+        margin-bottom: 15px;
+    }
+    #doctor_part {
+        padding-bottom: 30px;
+    }
+    /* =========doctor part end======= */
+    /* =========footer part start======= */
+    #footer_part .logo_details span {
+        font-size: 14px;
+    }
+    /* =========footer part end======= */
+    /* =========footer end part start======= */
+    #footer_end {
+        padding: 15px 0;
+    }
+    #footer_end p {
+        font-size: 14px;
+    }
+    /* =========footer end part end======= */
+} 
+
+@media (max-width: 575.98px) {  
+    /* =========header part start======= */
+    #header_part .item_part {
+        height: 110px;
+        display: block;
+    }
+    #header_part .item_part .item span{
+        font-size: 13px;
+    }
+    /* =========header part end======= */
+    /* =========manu part start======= */
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #manu_part span {
+        color: #fff;
+        font-size: 24px;
+    }
+    #manu_part ul li a {
+        font-size: 14px; 
+    }
+    /* =========manu part end======= */
+    /* =========banner part start======= */
+    #banner_part {
+        padding-top: 0px;
+    }
+    #banner_part .item .fnt_siz {
+        font-size: 28px;
+        padding-top: 40px;
+    }
+    #banner_part .item .fnt_siz_2 {
+        font-size: 32px;
+    }
+    /* =========banner part end======= */
+    /* =========about part start======= */
+    #about_part .item .img {
+        margin-left: 70px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    #about_part .item .pera {
+        width: 300px;
+        margin: 0 auto;
+    }
+    #about_part .item h3 {
+        padding-top: 15px;
+    }
+    #about_part .item span {
+        left: 70px;
+    }
+    #about_part {
+        padding-bottom: 40px;
+    }
+    /* =========about part end======= */
+    /* =========notice part start======= */
+    #notice_part {
+        padding: 15px 0;
+    }
+    #notice_part .item .title_2 {
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    #notice_part .item .title_1 {
+        font-size: 24px;
+    }
+    #notice_part .item .line {
+        top: 29px;
+    }
+    #notice_part .item .tab_box .title_2 {
+        font-size: 10px;
+    }
+    /* =========notice part end======= */
+    /* =========news even part start======= */
+    #news_even_part {
+        padding: 30px 0;
+    }
+    #news_even_part .item .title_1 {
+        font-size: 24px;
+        margin-top: 15px;
+    }
+    #news_even_part .item .line_1 {
+        margin-top: 15px;
+    }
+    #news_even_part .item .mrg_btm {
+        margin-bottom: 30px;
+    }
+    /* =========news even part end======= */
+    /* =========doctor part start======= */
+    #doctor_part .text .title_1 {
+        font-size: 24px;
+    }
+    #doctor_part .item .title_2 {
+        margin-bottom: 15px;
+    }
+    #doctor_part {
+        padding-bottom: 30px;
+    }
+    /* =========doctor part end======= */
+    /* =========footer part start======= */
+    #footer_part .logo_details span {
+        font-size: 14px;
+    }
+    /* =========footer part end======= */
+    /* =========footer end part start======= */
+    #footer_end {
+        padding: 15px 0;
+    }
+    #footer_end p{
+        font-size: 12px;
+    }
+    /* =========footer end part end======= */
+    
+} 
